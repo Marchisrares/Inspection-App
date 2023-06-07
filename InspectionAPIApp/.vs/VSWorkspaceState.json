@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\InspectionAPI",
+    "\\InspectionAPI\\bin",
+    "\\InspectionAPI\\bin\\Debug",
+    "\\InspectionAPI\\bin\\Release\\net6.0",
+    "\\InspectionAPI\\Controllers",
+    "\\InspectionAPI\\Data",
+    "\\InspectionAPI\\Migrations",
+    "\\InspectionAPI\\obj\\Release"
+  ],
+  "SelectedNode": "\\InspectionAPI",
+  "PreviewInSolutionExplorer": false
+}
